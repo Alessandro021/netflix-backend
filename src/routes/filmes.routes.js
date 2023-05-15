@@ -1,6 +1,44 @@
 import express, { response } from "express"
 export const router = express.Router()
 import { Filme } from "../models/filme.js"
+import { Temporada } from "../models/temporada.js"
+import _ from 'underscore'
+
+
+//RECUPERAR TELA HOME
+
+router.get("/home", async(req, res) => {
+
+    try {
+        //RECUPERANDO TODOS OS FIMES
+        let filmes = await Filme.find({})
+        let finalFilmes = []
+
+        //RECUPERANDO TEMPORADAS
+        for(let filme of filmes ) {
+            const temporadas = await Temporada.find({
+                filme_id: filme._id
+            })
+            const newFilme = { ...filme._doc, temporadas }
+            finalFilmes.push(newFilme)
+        }
+
+        //MISTURAR RESULTADOS ALEATORIAMENTE
+        finalFilmes = _.shuffle(finalFilmes)
+
+        //FILME PRINCIPAL
+        const principal = finalFilmes[0]
+
+        //SEPARA POR SEÇÕES
+        const secoes = _.chunk(finalFilmes, 5)
+
+        res.json({error: false, principal, secoes})
+
+
+    } catch (error) {
+        res.json({error: true, message: error.message})
+    }
+})
 
 //RECUPERRA TODOS OS REGISTROS
 router.get("/", async (req, res) => {

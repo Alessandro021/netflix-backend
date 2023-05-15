@@ -6,15 +6,20 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./index.js"
+    "start": "nodemon ./index.js",
+    "users": "node ./src/scripts/addUsers.js",
+    "filmes": "node ./src/scripts/addFilmes.js",
+    "tempEpi": "node  ./src/scripts/addTemporadasEpisodios.js"
   },
   "author": "Alessandro da Mata",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^7.1.1",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "underscore": "^1.13.6"
   }
 }

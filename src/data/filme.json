@@ -1,0 +1,308 @@
+[
+    {
+        "titulo": "A Morte do Demônio: A Ascensão",
+        "tipo": "filme",
+        "capa": " https://image.tmdb.org/t/p/original/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/aAgGrfBwna1nO4M2USxwFgK5O0t.jpg",
+        "descricao": "Duas irmãs distantes cujo reencontro é interrompido por demônios devoradores de carne que aparecem de repente, levando-as a uma batalha primal pela sobrevivência, enfrentando a versão mais assustadora que se possa imaginar de uma família.",
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Drama"
+        ],
+        "elenco": [
+            "Tom Hanks",
+            "Leonardo DiCaprio",
+            "Robert De Niro"
+        ],
+        "cenas_momentos": ["Drama Intenso", "Fantasia Épica", "Horror Arrepiante"]
+    },
+    {
+        "titulo": "Super Mario Bros.: O Filme",
+        "tipo": "filme",
+        "capa": " https://image.tmdb.org/t/p/original/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "descricao": "Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.",
+        "generos": [
+            "Comédia",
+            "Horror",
+            "Documentário"
+        ],
+        "elenco": [
+            "Mark Wahlberg",
+            "Will Smith",
+            "Robert De Niro"
+        ],
+        "cenas_momentos": ["Fantasia Épica", "Aventura Eletrizante", "Horror Arrepiante"]
+    },
+    {
+        "titulo": "O Exorcista do Papa",
+        "tipo": "filme",
+        "capa": " https://image.tmdb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/hiHGRbyTcbZoLsYYkO4QiCLYe34.jpg",
+        "descricao": "O padre Gabriele Amorth, exorcista do Vaticano, luta contra Satanás e demônios possuidores de inocentes. Um retrato detalhado de um padre que realizou mais de 100 mil exorcismos em sua vida.",
+        "generos": [
+            "Musical",
+            "Drama",
+            "Animação"
+        ],
+        "elenco": [
+            "Mark Wahlberg",
+            "Will Smith",
+            "Robert De Niro"
+        ],
+        "cenas_momentos": ["Confronto Decisivo", "Suspense Angustiante", "Fantasia Épica"]
+    },
+    {
+        "titulo": "Guardiões da Galáxia: Volume 3",
+        "tipo": "filme",
+        "capa": " https://image.tmdb.org/t/p/original/ttkTwdSx21AB1EDastR6xwMC2PT.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/99NBEpQEM4uLItZY2RquqdqdSXM.jpg",
+        "descricao": "Peter Quill, que ainda está a recuperar da perda de Gamora, tem que reunir a sua equipa para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Drama"
+        ],
+        "elenco": [
+            "Mark Wahlberg",
+            "Will Smith",
+            "Robert De Niro"
+        ],
+        "cenas_momentos": ["Comédia de Situações", "Fantasia Épica", "Musical Envolvente"]
+    },
+    {
+        "titulo": "John Wick 4: Baba Yaga",
+        "tipo": "filme",
+        "capa": " https://image.tmdb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
+        "descricao": "Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.",
+        "generos": [
+            "Ação",
+            "Documentário",
+            "Aventura"
+        ],
+        "elenco": [
+            "Matt Damon",
+            "Mark Wahlberg",
+            "Robert De Niro"
+        ],
+        "cenas_momentos": ["Suspense Angustiante", "Ação Explosiva", "Musical Envolvente"]
+    },
+    {
+        "titulo": "Duas Pecadoras e Uma Mula",
+        "tipo": "filme",
+        "capa": " https://image.tmdb.org/t/p/original/aRaO9OMNfsw03C04NHEgzBVWCiK.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/yx96Xz7ggs7TMmDqAa8G5oJ5ami.jpg",
+        "descricao": "Duas prostitutas são expulsas da cidade e encontram um caçador de recompensas ferido que precisa de ajuda. Elas cuidam do homem e decidem ajudá-lo a capturar um fora da lei impiedoso.",
+        "generos": [
+            "Ação",
+            "Comédia",
+            "Animação"
+        ],
+        "elenco": [
+            "Denzel Washington",
+            "Johnny Depp",
+            "Brad Pitt"
+        ],
+        "cenas_momentos": ["Drama Intenso", "Ação Explosiva", "Horror Arrepiante"]
+    },
+    {
+        "titulo":"Velozes e Furiosos 10",
+        "tipo": "filme",
+        "capa": " https://image.tmdb.org/t/p/original/nxrmpkwVdmiVAiRTqSSC2SateN2.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/fI5RsaM0NSU6TqztRhA2pal5ezv.jpg", 
+        "descricao": "Ao longo de muitas missões e contra probabilidades impossíveis, Dom Toretto e sua família foram mais espertos, mais nervosos e superaram todos os inimigos em seu caminho. Agora, eles enfrentam o oponente mais letal que já enfrentaram: uma ameaça terrível emergindo das sombras do passado, alimentada por vingança de sangue e determinada a destruir esta família e destruir tudo - e todos - que Dom ama, para sempre.",
+        "generos": [
+            "Animação",
+            "Ação",
+            "Drama"
+        ],
+        "elenco": [
+            "Matt Damon",
+            "Will Smith",
+            "Brad Pitt"
+        ],
+        "cenas_momentos": ["Drama Intenso", "Horror Arrepiante", "Aventura Eletrizante"]
+    },
+    {
+        "titulo": "Dungeons & Dragons: Honra Entre Rebeldes",
+        "tipo": "filme",
+        "capa": " https://image.tmdb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg", 
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/fC6TZRnySFZ7RMYdOA4Yt21q0Y9.jpg",
+        "descricao": "Em um mundo repleto de dragões, elfos, anões, orcs e outras criaturas fantásticas, sobreviver é sempre um grande desafio. Raven Hightower é um humano que se arrisca entre os lugares mais perigosos e misteriosos desse universo, sempre com a ajuda de outros aventureiros que, assim como ele, estão dispostos a combater o mal e a derrotar as mais terríveis criaturas que surgem em seus caminhos.",
+        "generos": [
+            "Aventura",
+            "Ação",
+            "Fantasia"
+        ],
+        "elenco": [
+            "Johnny Depp",
+            "Tom Cruise",
+            "Brad Pitt"
+        ],
+        "cenas_momentos": ["Aventura Eletrizante", "Ação Explosiva", "Fantasia Épica"]
+    },
+    {
+        "titulo":"Assassin Club",
+        "tipo": "filme",
+        "capa": " https://image.tmdb.org/t/p/original/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg",  
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/cYyUinLXRbQwE4PAt2mQLTGBqti.jpg",
+        "descricao":"Um assassino recebe um contrato para matar sete pessoas em todo o mundo apenas para descobrir que os alvos também são assassinos que foram contratados para matá-lo.",
+        "generos": [
+            "Fantasia",
+            "Suspense",
+            "Ficção científica"
+        ],
+        "elenco": [
+            "Leonardo DiCaprio",
+            "Will Smith",
+            "Brad Pitt"
+        ],
+        "cenas_momentos": ["Ficção Científica Inovadora", "Terror Assustador", "Fantasia Épica"]
+    },
+    {
+        "titulo":"Operação Hunt",
+        "tipo": "filme",
+        "capa": " https://image.tmdb.org/t/p/original/gLeUgQ7do6nDRCLMTUIv7DeAiGa.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/aRJjCgp4uVUkXhDw8NClesQXbt3.jpg",
+        "descricao": "Baseado na história do serviço secreto coreano nos anos 80, a suspeita de um espião gera um ambiente de paranoia entre os agentes de segurança do país. Dois chefes de departamento tentarão descobrir a verdade atrás de muitas traições e conspirações.",
+        "generos": [
+            "Aventura",
+            "Ação",
+            "Comédia"
+        ],
+        "elenco": [
+            "Tom Cruise",
+            "Brad Pitt",
+            "Will Smith"
+        ],
+        "cenas_momentos": ["Fantasia Épica", "Suspense Angustiante", "Ação Explosiva"]
+    },
+    {
+        "titulo": "O Urso do Pó Branco",
+        "tipo": "serie",
+        "capa": " https://image.tmdb.org/t/p/original/7tBvUMyZeJvpaAcnbV3vcCa753K.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/qUOJGvH8L31HL2b9Q6DGNPGCCI0.jpg",
+        "descricao": "Um grupo excêntrico de policiais, criminosos, turistas e adolescentes se convergem numa floresta da Geórgia, onde um urso negro de 200kg ingeriu uma quantidade impressionante de cocaína e partiu para uma fúria movida a coca por mais golpe... e sangue.",
+        "generos": [
+            "Comédia",
+            "Fantasia",
+            "Aventura"
+        ],
+        "elenco": [
+            "Mark Wahlberg",
+            "Tom Cruise",
+            "Robert De Niro"
+        ],
+        "cenas_momentos": ["Documentário Impactante", "Fantasia Épica", "Aventura Eletrizante"]
+    },
+    {
+        "titulo": "65: Ameaça Pré-Histórica",
+        "tipo": "serie",
+        "capa": " https://image.tmdb.org/t/p/original/uwAUZ2yD6mgQl2lhuEkRDpl5lmR.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/eEF40Xk2twM3WjRNZftfo771gjv.jpg", 
+        "descricao": "Após um acidente catastrófico em um planeta desconhecido, o piloto Mills rapidamente descobre que está preso na Terra há 65 milhões de anos. Agora, com apenas uma chance de resgate, Mills e o único outro sobrevivente, Koa, devem atravessar um terreno desconhecido cheio de perigosas criaturas pré-históricas (incluindo dinossauros) em uma luta épica para sobreviver.",
+        "generos": [
+            "Drama",
+            "Drama",
+            "Aventura"
+        ],
+        "elenco": [
+            "Mark Wahlberg",
+            "Denzel Washington",
+            "Leonardo DiCaprio"
+        ],
+        "cenas_momentos": ["Suspense Angustiante", "Ação Explosiva", "Aventura Eletrizante"]
+    },
+    {
+        "titulo": "As Múmias e o Anel Perdido",
+        "tipo": "serie",
+        "capa": " https://image.tmdb.org/t/p/original/olT9HuXfnMVFqDGjLhllKe5EuQP.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/c3hl9E8E7b9opXDFVF5tSyk0ykr.jpg",
+        "descricao": "Acompanha as divertidas aventuras de três múmias egípcias que vivem numa cidade secreta subterrânea sob as pirâmides do antigo Egito – uma princesa, um piloto de corrida de bigas e o irmão mais novo dele, inseparável de seu bebê crocodilo de estimação. Após uma série de infelizes acasos, o trio de múmias e seu pet embarcam numa hilária e agitada jornada na Londres atual à procura de um anel ancestral, de propriedade da Família Real das Múmias, roubado pelo ambicioso arqueólogo Lorde Carnaby.",
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Documentário"
+        ],
+        "elenco": [
+            "Johnny Depp",
+            "Matt Damon",
+            "Tom Cruise"
+        ],
+        "cenas_momentos": ["Aventura Eletrizante", "Fantasia Épica", "Suspense Angustiante"]
+    },
+    {
+        "titulo": "As Múmias e o Anel Perdido",
+        "tipo": "serie",
+        "capa": " https://image.tmdb.org/t/p/original/olT9HuXfnMVFqDGjLhllKe5EuQP.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/c3hl9E8E7b9opXDFVF5tSyk0ykr.jpg",
+        "descricao": "Acompanha as divertidas aventuras de três múmias egípcias que vivem numa cidade secreta subterrânea sob as pirâmides do antigo Egito – uma princesa, um piloto de corrida de bigas e o irmão mais novo dele, inseparável de seu bebê crocodilo de estimação. Após uma série de infelizes acasos, o trio de múmias e seu pet embarcam numa hilária e agitada jornada na Londres atual à procura de um anel ancestral, de propriedade da Família Real das Múmias, roubado pelo ambicioso arqueólogo Lorde Carnaby.",
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Documentário"
+        ],
+        "elenco": [
+            "Johnny Depp",
+            "Matt Damon",
+            "Tom Cruise"
+        ],
+        "cenas_momentos": ["Aventura Eletrizante", "Fantasia Épica", "Suspense Angustiante"]
+    },
+    {
+        "titulo": "Ursinho Pooh: Sangue e Mel",
+        "tipo": "serie",
+        "capa": " https://image.tmdb.org/t/p/original/jJZagdWBtpDUpCKHzrVwJRMKJL6.jpg",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/wD2kUCX1Bb6oeIb2uz7kbdfLP6k.jpg",
+        "descricao": "Winnie the Pooh: Blood and Honey",
+        "overview": "Depois de serem abandonados por Christopher Robin, que foi para a faculdade, Pooh e Leitão matam qualquer um que se atreva a se aventurar na Floresta dos Sonhos Azuis.",
+        "generos": [
+            "Comédia",
+            "Animação",
+            "Drama"
+        ],
+        "elenco": [
+            "Tom Cruise",
+            "Leonardo DiCaprio",
+            "Robert De Niro"
+        ],
+        "cenas_momentos": ["Fantasia Épica", "Horror Arrepiante", "Ação Explosiva"]
+    },
+    {
+        "titulo": "Caçador de Tormentas",
+        "tipo": "serie",
+        "capa": " https://image.tmdb.org/t/p/original/g0UOstAfVWAK5FazCMfdWdkM38i.jpg", 
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://image.tmdb.org/t/p/original/xmcPahH2mOkDAsIifOKoCacKhrw.jpg",
+        "descricao": "Winnie the Pooh: Blood and Honey",
+        "overview": "Com Alec Baldwin. William segue os passos de seu pai caçador de tempestades e agora enfrentará o maior desafio da sua vida para seguir seu legado.",
+        "generos": [
+            "Ação",
+            "Documentário",
+            "Ficção científica"
+        ],
+        "elenco": [
+            "Brad Pitt",
+            "Mark Wahlberg",
+            "Tom Hanks"
+        ],
+        "cenas_momentos": ["Ação Explosiva", "Musical Envolvente", "Documentário Impactante"]
+    } 
+]
